@@ -8,4 +8,5 @@
 - [ ] Music
 - [ ] Battle
 - [ ] Talent Tree?
-- [ ] .....
+- [ ] More Character (Root motion)
+- [ ] ...
